@@ -9,13 +9,13 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#EAF6FF"
+      "#D6ECFB"
     ],
     "BACKGROUND_ACCENT": [
       "#D6EFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#F0F9FF"
+      "#DCF0FF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#D6EFFF"
@@ -150,7 +150,7 @@
       "#0B3D5C"
     ],
     "TOAST_BG": [
-      "#FFFFFF"
+      "#DCF0FF"
     ],
     "TYPING_INDICATOR_BG": [
       "#EAF6FF"
@@ -180,7 +180,7 @@
       "#D6EFFF"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#FFFFFF"
+      "#E0F3FF"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#EAF6FF"
@@ -192,7 +192,7 @@
       "#BEE3FF"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#FFFFFF"
+      "#E0F3FF"
     ],
     "MENTION_BADGE": [
       "#ff6161"
