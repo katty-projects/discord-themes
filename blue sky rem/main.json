@@ -96,28 +96,49 @@
       "#5B8DEF"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#3A5A72"
+      "#000000"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#4C6B82"
+      "#000000"
     ],
     "TEXT_MUTED": [
-      "#6C8AA0"
+      "#2A2A2A"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
-      "#3A5A72"
+      "#000000"
     ],
     "TEXT_NORMAL": [
-      "#0B3D5C"
+      "#000000"
     ],
     "TEXT_POSITIVE": [
       "#1B7A34"
     ],
     "TEXT_PRIMARY": [
-      "#0B3D5C"
+      "#000000"
     ],
     "TEXT_SECONDARY": [
-      "#2E5B78"
+      "#1A1A1A"
+    ],
+    "HEADER_PRIMARY": [
+      "#000000"
+    ],
+    "HEADER_SECONDARY": [
+      "#1A1A1A"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#000000"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#000000"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#000000"
+    ],
+    "CHANNELTEXTAREA_PLACEHOLDER": [
+      "#333333"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#000000"
     ],
     "TEXT_WARNING": [
       "#8A6D00"
@@ -236,8 +257,8 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
-    "blur": 0.5,
-    "alpha": 0.15,
+    "blur": 0.2,
+    "alpha": 0.45,
     "size": "cover",
     "position": "center"
   },
